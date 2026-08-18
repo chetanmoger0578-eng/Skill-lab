@@ -1,4 +1,4 @@
 hey guys
 hey from git
 
-all the best for is department
+This session is conducted inorder to have deep basics in git and github.
